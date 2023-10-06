@@ -1,0 +1,7 @@
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=pdfsdoma_main
+DB_USERNAME=pdfsdoma_main
+DB_PASSWORD=a4^E@&p5k1kp
+
